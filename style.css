@@ -6,9 +6,7 @@
 }
 
 body {
-  background: linear-gradient(226.49deg, #A5B2CE 3%, #114490 74.35%);
-
-
+  background: rgba(21, 7, 188, 0.802);
 }
 
 .image {
@@ -27,8 +25,15 @@ p {
 
 .image-3 {
   width: 64px;
+  margin: 0 32px 0 32px;
 }
 
 .image-4 {
   width: 72px;
+}
+
+.nama-obat, .obat-indikasi {
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
 }
